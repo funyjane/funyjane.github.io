@@ -1,1 +1,1 @@
-# [funyjane.github.io](https://funyjane.github.io/)
+# [Path finder algorithm visualisation](https://funyjane.github.io/)
